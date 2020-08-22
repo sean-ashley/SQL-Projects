@@ -1,2 +1,2 @@
 # SQL-World-Populations-Project
-A small SQL Project to Explore World Populations Using DB Browser for SQLITE.
+My Repo for various SQL projects done with Codecademy SQL course.
